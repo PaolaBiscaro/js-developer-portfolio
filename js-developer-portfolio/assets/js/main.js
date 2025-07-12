@@ -75,6 +75,6 @@ function updateProfessionalExperience(profileData) {
 
 
 
-console.log('Teste')
+console.log('Teste de Console')
 
-/*Teste de javascript */
+/*Teste de javascript */ 
