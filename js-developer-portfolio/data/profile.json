@@ -32,13 +32,7 @@
       "Empatia"
     ]
   },
-  "education": [
-    {
-      "name": "Bacharelado em Ciência da Computação | UNIMAR",
-      "year": "fev 2024 - Cursando Presencial",
-      "description": "Desenvolvimento de habilidades em lógica, resolução de problemas, trabalho em equipe e projetos práticos voltados para o desenvolvimento de sistemas, aplicações web e automação."
-    }
-  ],
+  
   "portfolio": [
     {
       "name": "Portfolio page",
@@ -49,6 +43,13 @@
       "name": "Projeto Inlytics",
       "url": "https://github.com/hribes/projeto_inlytics",
       "github": true
+    }
+  ],
+  "education": [
+    {
+      "name": "Bacharelado em Ciência da Computação | UNIMAR",
+      "year": "fev 2024 - Cursando Presencial",
+      "description": "Desenvolvimento de habilidades em lógica, resolução de problemas, trabalho em equipe e projetos práticos voltados para o desenvolvimento de sistemas, aplicações web e automação."
     }
   ],
   "professionalExperience": [
