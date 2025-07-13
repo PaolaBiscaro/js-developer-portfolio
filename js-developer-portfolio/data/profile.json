@@ -40,8 +40,18 @@
       "github": true
     },
     {
+      "name": "Estudos JavaScript",
+      "url": "https://github.com/PaolaBiscaro/Estudos-Javascript",
+      "github": true
+    },
+    {
       "name": "Projeto Inlytics",
       "url": "https://github.com/hribes/projeto_inlytics",
+      "github": true
+    },
+    {
+      "name": "Projeto StockEzze",
+      "url": "https://github.com/PaolaBiscaro/StockEzze",
       "github": true
     }
   ],
