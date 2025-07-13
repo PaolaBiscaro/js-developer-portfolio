@@ -9,11 +9,11 @@
     "hardSkills": [
       {
         "name": "Node.js",
-        "logo": "https://github.com/PaolaBiscaro/js-developer-portfolio/blob/main/js-developer-portfolio/data/imgs/nodejs.png"
+        "logo": "https://raw.githubusercontent.com/PaolaBiscaro/js-developer-portfolio/main/js-developer-portfolio/data/imgs/js.png"
       },
       {
         "name": "JavaScript",
-        "logo": "https://github.com/PaolaBiscaro/js-developer-portfolio/blob/main/js-developer-portfolio/data/imgs/js.png"
+        "logo": "https://raw.githubusercontent.com/PaolaBiscaro/js-developer-portfolio/main/js-developer-portfolio/data/imgs/js.png"
       },
       {
         "name": "Python",
