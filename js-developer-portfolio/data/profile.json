@@ -8,20 +8,20 @@
   "skills": {
     "hardSkills": [
       {
-        "name": "Node.js",
+        "name": "JavaScript",
         "logo": "https://raw.githubusercontent.com/PaolaBiscaro/js-developer-portfolio/refs/heads/main/js-developer-portfolio/data/imgs/js.png"
       },
       {
-        "name": "JavaScript",
-        "logo": "https://raw.githubusercontent.com/PaolaBiscaro/js-developer-portfolio/main/js-developer-portfolio/data/imgs/js.png"
+        "name": "Node.js",
+        "logo": "https://raw.githubusercontent.com/PaolaBiscaro/js-developer-portfolio/refs/heads/main/js-developer-portfolio/data/imgs/nodejs.png"
       },
       {
         "name": "Python",
-        "logo": "https://github.com/PaolaBiscaro/js-developer-portfolio/blob/main/js-developer-portfolio/data/imgs/python.png"
+        "logo": "https://raw.githubusercontent.com/PaolaBiscaro/js-developer-portfolio/refs/heads/main/js-developer-portfolio/data/imgs/python.png"
       },
       {
         "name": "MySQL",
-        "logo": "https://github.com/PaolaBiscaro/js-developer-portfolio/blob/main/js-developer-portfolio/data/imgs/mysql.png"
+        "logo": "https://raw.githubusercontent.com/PaolaBiscaro/js-developer-portfolio/refs/heads/main/js-developer-portfolio/data/imgs/mysql.png"
       }
     ],
     "softSkills": [
