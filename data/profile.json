@@ -1,6 +1,6 @@
 {
   "name": "Paola Bíscaro",
-  "photo": "https://avatars.githubusercontent.com/u/103702943?s=96&v=4",
+  "photo": "https://raw.githubusercontent.com/PaolaBiscaro/js-developer-portfolio/refs/heads/main/assets/img/foto-perfil.jpg",
   "job": "Junior Developer",
   "location": "Oriente - SP",
   "phone": "(14) 98822-0708",
@@ -9,19 +9,19 @@
     "hardSkills": [
       {
         "name": "JavaScript",
-        "logo": "https://raw.githubusercontent.com/PaolaBiscaro/js-developer-portfolio/refs/heads/main/js-developer-portfolio/data/imgs/js.png"
+        "logo": "https://raw.githubusercontent.com/PaolaBiscaro/js-developer-portfolio/refs/heads/main/data/imgs/js.png"
       },
       {
         "name": "Node.js",
-        "logo": "https://raw.githubusercontent.com/PaolaBiscaro/js-developer-portfolio/refs/heads/main/js-developer-portfolio/data/imgs/nodejs.png"
+        "logo": "https://raw.githubusercontent.com/PaolaBiscaro/js-developer-portfolio/refs/heads/main/data/imgs/nodejs.png"
       },
       {
         "name": "Python",
-        "logo": "https://raw.githubusercontent.com/PaolaBiscaro/js-developer-portfolio/refs/heads/main/js-developer-portfolio/data/imgs/python.png"
+        "logo": "https://raw.githubusercontent.com/PaolaBiscaro/js-developer-portfolio/refs/heads/main/data/imgs/python.png"
       },
       {
         "name": "MySQL",
-        "logo": "https://raw.githubusercontent.com/PaolaBiscaro/js-developer-portfolio/refs/heads/main/js-developer-portfolio/data/imgs/mysql.png"
+        "logo": "https://raw.githubusercontent.com/PaolaBiscaro/js-developer-portfolio/refs/heads/main/data/imgs/mysql.png"
       }
     ],
     "softSkills": [
